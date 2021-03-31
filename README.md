@@ -1,11 +1,10 @@
 # flutter_weather_bg_null_safety
+#原仓库作者地址 https://github.com/xiaweizi/flutter_weather_bg
 
 [![Pub Version](https://img.shields.io/pub/v/flutter_weather_bg?style=plastic)](https://pub.flutter-io.cn/packages/flutter_weather_bg)
 
 A rich and cool weather dynamic background plug-in, supporting 15 weather types. [README_ZH](https://github.com/xiaweizi/flutter_weather_bg/blob/master/README_ZH.md)
 
-**Use this plug-in to complete the weather background animation effect in my own project  [SimplicityWeather](https://github.com/xiaweizi/SimplicityWeather) .**
-**If you want to experience it, please [click the download link](http://xiaweizi.top/SimplicityWeather-2_6.apk) to download it**
 
 ## Features 
 
@@ -25,7 +24,7 @@ A rich and cool weather dynamic background plug-in, supporting 15 weather types.
 Add  `flutter_weather_bg_null_safety: ^1.0.0` to your `pubspec.yaml` dependencies. And import it:
 
 ```dar
-import 'package:flutter_weather_bg/flutter_weather_bg.dart';
+import 'package:flutter_weather_bg_null_safety/flutter_weather_bg.dart';
 ```
 
 ## How to use 

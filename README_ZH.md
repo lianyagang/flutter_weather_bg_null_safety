@@ -1,12 +1,9 @@
-# flutter_weather_bg
-
+# flutter_weather_bg_null_safety
+#原仓库作者地址 https://github.com/xiaweizi/flutter_weather_bg
 [![Pub Version](https://img.shields.io/pub/v/flutter_weather_bg?style=plastic)](https://pub.flutter-io.cn/packages/flutter_weather_bg)
 
 一款丰富炫酷的天气动态背景插件，支持 **15** 种天气类型。
 
-**在自己做的项目 [简悦天气](https://github.com/xiaweizi/SimplicityWeather) 中使用此插件完成天气背景动画效果。**
-
-**如果想体验请点击[下载链接](http://xiaweizi.top/SimplicityWeather-2_6.apk)下载**
 
 ## 功能
 
@@ -23,10 +20,10 @@
 
 ## 安装
 
-添加 `flutter_weather_bg: ^2.7.0` 到 `pubspec.yaml` 文件中，并且导包：
+添加 `flutter_weather_bg_null_safety: ^1.0.0` 到 `pubspec.yaml` 文件中，并且导包：
 
 ```dar
-import 'package:flutter_weather_bg/flutter_weather_bg.dart';
+import 'package:flutter_weather_bg_null_safety/flutter_weather_bg.dart';
 ```
 
 ## 使用
