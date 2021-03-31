@@ -1,10 +1,10 @@
 import 'dart:ui' as ui;
 
 import 'package:flutter/material.dart';
-import 'package:flutter_weather_bg/bg/weather_bg.dart';
-import 'package:flutter_weather_bg/utils/image_utils.dart';
-import 'package:flutter_weather_bg/utils/print_utils.dart';
-import 'package:flutter_weather_bg/utils/weather_type.dart';
+import 'package:flutter_weather_bg_null_safety/bg/weather_bg.dart';
+import 'package:flutter_weather_bg_null_safety/utils/image_utils.dart';
+import 'package:flutter_weather_bg_null_safety/utils/print_utils.dart';
+import 'package:flutter_weather_bg_null_safety/utils/weather_type.dart';
 
 //// 专门负责绘制背景云层
 //// 会根据不同的天气类型，选择需要绘制的图片类型，并控制缩放、渐变、位移以及染色，最终显示在屏幕上

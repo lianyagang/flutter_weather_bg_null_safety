@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_weather_bg/bg/weather_bg.dart';
-import 'package:flutter_weather_bg/utils/weather_type.dart';
+import 'package:flutter_weather_bg_null_safety/bg/weather_bg.dart';
+import 'package:flutter_weather_bg_null_safety/utils/weather_type.dart';
 
 /// 主要提供两个实例
 /// 1. 切换天气类型时，会有过度动画
@@ -28,9 +28,9 @@ class _AnimViewWidgetState extends State<AnimViewWidget> {
               return <PopupMenuEntry<WeatherType>>[
                 ...WeatherType.values
                     .map((e) => PopupMenuItem<WeatherType>(
-                  value: e,
-                  child: Text("${WeatherUtil.getWeatherDesc(e)}"),
-                ))
+                          value: e,
+                          child: Text("${WeatherUtil.getWeatherDesc(e)}"),
+                        ))
                     .toList(),
               ];
             },
@@ -75,7 +75,6 @@ class _AnimViewWidgetState extends State<AnimViewWidget> {
             SizedBox(
               height: 20,
             ),
-
             SizedBox(
               height: 20,
             ),

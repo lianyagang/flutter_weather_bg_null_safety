@@ -1,11 +1,10 @@
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_weather_bg/bg/weather_bg.dart';
-import 'package:flutter_weather_bg/flutter_weather_bg.dart';
-import 'package:flutter_weather_bg/utils/print_utils.dart';
+import 'package:flutter_weather_bg_null_safety/bg/weather_bg.dart';
+import 'package:flutter_weather_bg_null_safety/utils/print_utils.dart';
+import 'package:flutter_weather_bg_null_safety/utils/weather_type.dart';
 import 'package:flutter_weather_bg_example/anim_view.dart';
-
 import 'package:flutter_weather_bg_example/grid_view.dart';
 import 'package:flutter_weather_bg_example/list_view.dart';
 import 'package:flutter_weather_bg_example/page_view.dart';

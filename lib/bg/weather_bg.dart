@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_weather_bg/bg/weather_cloud_bg.dart';
-import 'package:flutter_weather_bg/bg/weather_color_bg.dart';
-import 'package:flutter_weather_bg/bg/weather_night_star_bg.dart';
-import 'package:flutter_weather_bg/bg/weather_rain_snow_bg.dart';
-import 'package:flutter_weather_bg/bg/weather_thunder_bg.dart';
-import 'package:flutter_weather_bg/utils/weather_type.dart';
+import 'package:flutter_weather_bg_null_safety/bg/weather_cloud_bg.dart';
+import 'package:flutter_weather_bg_null_safety/bg/weather_color_bg.dart';
+import 'package:flutter_weather_bg_null_safety/bg/weather_night_star_bg.dart';
+import 'package:flutter_weather_bg_null_safety/bg/weather_rain_snow_bg.dart';
+import 'package:flutter_weather_bg_null_safety/bg/weather_thunder_bg.dart';
+import 'package:flutter_weather_bg_null_safety/utils/weather_type.dart';
 
 /// 最核心的类，集合背景&雷&雨雪&晴晚&流星效果
 /// 1. 支持动态切换大小

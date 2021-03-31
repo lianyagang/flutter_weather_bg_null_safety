@@ -1,7 +1,7 @@
 name: flutter_weather_bg_null_safety
 description: Provide a variety of weather background animation effects, covering 15 weather types, including sunny,rain,snow...
 version: 1.0.0
-homepage: https://github.com/xiaweizi/flutter_weather_bg
+homepage: https://github.com/lianyagang/flutter_weather_bg_null_safety
 
 environment:
   sdk: ">=2.12.0 <3.0.0"

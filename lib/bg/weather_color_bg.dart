@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_weather_bg/utils/weather_type.dart';
+import 'package:flutter_weather_bg_null_safety/utils/weather_type.dart';
 
 /// 颜色背景层
 class WeatherColorBg extends StatelessWidget {

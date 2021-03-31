@@ -2,10 +2,10 @@ import 'dart:math';
 import 'dart:ui' as ui;
 
 import 'package:flutter/material.dart';
-import 'package:flutter_weather_bg/bg/weather_bg.dart';
-import 'package:flutter_weather_bg/utils/image_utils.dart';
-import 'package:flutter_weather_bg/utils/print_utils.dart';
-import 'package:flutter_weather_bg/utils/weather_type.dart';
+import 'package:flutter_weather_bg_null_safety/bg/weather_bg.dart';
+import 'package:flutter_weather_bg_null_safety/utils/image_utils.dart';
+import 'package:flutter_weather_bg_null_safety/utils/print_utils.dart';
+import 'package:flutter_weather_bg_null_safety/utils/weather_type.dart';
 
 //// 雨雪动画层
 class WeatherRainSnowBg extends StatefulWidget {

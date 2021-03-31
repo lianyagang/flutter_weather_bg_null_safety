@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_weather_bg/bg/weather_bg.dart';
-import 'package:flutter_weather_bg/utils/weather_type.dart';
+import 'package:flutter_weather_bg_null_safety/bg/weather_bg.dart';
+import 'package:flutter_weather_bg_null_safety/utils/weather_type.dart';
 
 class ListViewWidget extends StatefulWidget {
   @override

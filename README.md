@@ -1,4 +1,4 @@
-# flutter_weather_bg
+# flutter_weather_bg_null_safety
 
 [![Pub Version](https://img.shields.io/pub/v/flutter_weather_bg?style=plastic)](https://pub.flutter-io.cn/packages/flutter_weather_bg)
 
@@ -22,7 +22,7 @@ A rich and cool weather dynamic background plug-in, supporting 15 weather types.
 
 ## Installation
 
-Add  `flutter_weather_bg: ^2.8.0` to your `pubspec.yaml` dependencies. And import it:
+Add  `flutter_weather_bg_null_safety: ^1.0.0` to your `pubspec.yaml` dependencies. And import it:
 
 ```dar
 import 'package:flutter_weather_bg/flutter_weather_bg.dart';
