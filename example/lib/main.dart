@@ -82,7 +82,7 @@ class HomePage extends StatelessWidget {
           child: Stack(
             children: [
               WeatherBg(
-                weatherType: WeatherType.thunder,
+                weatherType: weatherType,
                 width: itemWidth,
                 height: itemHeight,
               ),
